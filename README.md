@@ -92,3 +92,23 @@ spring.datasource.password=your_password
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQLDialect
+
+
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+Displays all available products with search functionality.
+![Home Page](screenshots/home.png)
+
+### 🛒 Cart Page
+User-specific cart showing selected products and total price.
+![Cart](screenshots/cart.png)
+
+### 📦 Checkout Page
+Checkout page with order summary and shipping address.
+![Checkout](screenshots/checkout.png)
+
+### ✅ Order Confirmation
+Order confirmation page after successful checkout.
+![Order Confirmation](screenshots/order-confirm.png)
