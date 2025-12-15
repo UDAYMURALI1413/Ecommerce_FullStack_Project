@@ -1,6 +1,6 @@
 # 🛒 E-Commerce Web Application (Spring Boot)
 
-A full-stack *E-Commerce web application* built using *Spring Boot, **Spring Security, **JSP, and **MySQL*.  
+A full-stack <b>"E-Commerce web application"</b> built using Spring Boot, Spring Security, JSP, and MySQL.  
 This project focuses on backend fundamentals like authentication, authorization, cart handling, and order processing, along with a clean and responsive UI.
 
 ---
@@ -8,7 +8,7 @@ This project focuses on backend fundamentals like authentication, authorization,
 ## 📌 Project Overview
 
 This application allows users to browse products, search items, add them to a cart, and place orders securely.  
-Authentication and authorization are handled using *Spring Security, and data is persisted using **MySQL* with *Spring Data JPA*.
+Authentication and authorization are handled using Spring Security, and data is persisted using MySQL with Spring Data JPA.
 
 ---
 
