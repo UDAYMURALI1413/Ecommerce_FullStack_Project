@@ -78,23 +78,6 @@ Authentication and authorization are handled using *Spring Security, and data is
 
 ---
 
-## 🗄 Database Configuration
-
-The application uses *MySQL* as the primary database.
-
-Example configuration (application.properties):
-
-```properties
-spring.datasource.url=jdbc:mysql://localhost:3306/ecommerceDb
-spring.datasource.username=your_username
-spring.datasource.password=your_password
-
-spring.jpa.hibernate.ddl-auto=update
-spring.jpa.show-sql=true
-spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQLDialect
-
-
-
 ## 📸 Screenshots
 
 ### 🏠 Home Page
@@ -112,3 +95,21 @@ Checkout page with order summary and shipping address.
 ### ✅ Order Confirmation
 Order confirmation page after successful checkout.
 ![Order Confirmation](screenshots/order-confirm.png)
+
+
+## 🗄 Database Configuration
+
+The application uses *MySQL* as the primary database.
+
+Example configuration (application.properties):
+
+```properties
+spring.datasource.url=jdbc:mysql://localhost:3306/ecommerceDb
+spring.datasource.username=your_username
+spring.datasource.password=your_password
+
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
+spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQLDialect
+
+
