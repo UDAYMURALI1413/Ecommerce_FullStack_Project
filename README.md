@@ -82,19 +82,44 @@ Authentication and authorization are handled using *Spring Security, and data is
 
 ### 🏠 Home Page
 Displays all available products with search functionality.
-![Home Page](screenshots/home.png)
+
+<img width="1917" height="1008" alt="home png" src="https://github.com/user-attachments/assets/7797b432-ed4f-4c69-958e-12236f2828de" />
+<img width="1916" height="874" alt="home2" src="https://github.com/user-attachments/assets/654ed283-83ec-4493-a371-561429a57a92" />
+
+
+### 🔍 Product Search
+Search products by name using the navbar search bar.
+
+<img width="1919" height="948" alt="search" src="https://github.com/user-attachments/assets/5cd2e9b1-38e8-4902-8167-113baaa8c955" />
+
 
 ### 🛒 Cart Page
 User-specific cart showing selected products and total price.
-![Cart](screenshots/cart.png)
+
+<img width="1919" height="936" alt="cart png" src="https://github.com/user-attachments/assets/689e7109-fdae-4dfc-8db7-49db3c9bf486" />
 
 ### 📦 Checkout Page
 Checkout page with order summary and shipping address.
-![Checkout](screenshots/checkout.png)
+
+<img width="1915" height="940" alt="checkout png" src="https://github.com/user-attachments/assets/6918ea09-4b24-4d76-83fa-5b49e653c2a6" />
+
 
 ### ✅ Order Confirmation
 Order confirmation page after successful checkout.
-![Order Confirmation](screenshots/order-confirm.png)
+
+<img width="1919" height="952" alt="order-confirm png" src="https://github.com/user-attachments/assets/16abf164-04e8-41f9-adf9-aaeca4dee0b5" />
+
+
+### Admin Access
+
+From here admin can 
+- CREATE (ADD)
+- READ
+- UPDATE
+- DELETE
+and modify the products.
+<img width="1919" height="945" alt="admin-access" src="https://github.com/user-attachments/assets/065d3da3-0cd4-4cbc-bb7c-ea05112cca12" />
+<img width="1919" height="944" alt="product (1)" src="https://github.com/user-attachments/assets/0cca5f60-42cf-434b-bcbe-7329a0f43860" />
 
 
 ## 🗄 Database Configuration
